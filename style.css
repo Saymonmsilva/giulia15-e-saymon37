@@ -1,5 +1,5 @@
 body{
-    background-color: coral;
+    background-color: rgb(9, 240, 190);
 }
 .identificação {
     color: blueviolet;
@@ -25,5 +25,5 @@ body{
 a{
     margin: 20px;
     padding: 20px;
-    background-color: rgb(17, 13, 231);
+    background-color: rgb(231, 237, 238);
 }
